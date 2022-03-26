@@ -4,6 +4,8 @@
 
 Desenvolvedor Fullstack jr, estou em busca da minha primeira oportunidade na área de tecnologia 💻 
 
+📪 rodrigoluizcferreira@gmail.com 📪
+
 ![rodsluizz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodsluizz&show_icons=true&theme=cobalt)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rodsluizz)
