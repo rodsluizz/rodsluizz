@@ -11,6 +11,8 @@ Desenvolvedor Fullstack jr, estou em busca da minha primeira oportunidade na ár
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 ####rodrigoluizcferreira@gmail.com
 
+![rodsluizz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodsluizz&show_icons=true&theme=radical)
+
 
 
 
