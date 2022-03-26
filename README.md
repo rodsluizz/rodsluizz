@@ -9,6 +9,7 @@ Desenvolvedor Fullstack jr, estou em busca da minha primeira oportunidade na ár
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3upDGYP5)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+()
 rodrigoluizcferreira@gmail.com
 
 
