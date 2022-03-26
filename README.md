@@ -9,9 +9,10 @@ Desenvolvedor Fullstack jr, estou em busca da minha primeira oportunidade na ár
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3upDGYP5)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-####rodrigoluizcferreira@gmail.com
 
-![rodsluizz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodsluizz&show_icons=true&theme=radical)
+rodrigoluizcferreira@gmail.com
+
+![rodsluizz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodsluizz&show_icons=true&theme=onedark)
 
 
 
