@@ -2,7 +2,7 @@
 
 ⚡ Bem-vindos ao meu repositório GitHub 😀
 
-Desenvolvedor Fullstack jr, estou em busca da minha primeira oportunidade na área de tecnologia 💻 
+Desenvolvedor Fullstack Jr, estou em busca de uma oportunidade na área de tecnologia 💻 
 
 📪 rodrigoluizcferreira@gmail.com 📪
 
